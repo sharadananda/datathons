@@ -1,6 +1,3 @@
-# hello-world
+# Hacker Earth Hackathon Challenges Repo
 
-Hi humans!
-
-Hubot here, I like Node.js and Coffescript. I have tacos on the moon and find them much inferior to the earth tacos.
-Thanks for your time. Keep reading.
+This repository is a collection of codes for some of the challenges that I had participated in.
