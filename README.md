@@ -1,3 +1,3 @@
-# Hacker Earth Hackathon Challenges Repo
+# Data Science Hackathons Repository
 
-This repository is a collection of codes from data science challenges in hackerearth.com
+This repository is a collection of codes from online data science challenges from various portals like hackerearth.com, analyticsvidhya.com, kaggle.com etc.
